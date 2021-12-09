@@ -1,4 +1,4 @@
-# Digital Skynet Styleguide
+# grech_ca Styleguide
 
 ## Окружение
   1. Использовать линтеры: ESlint, Stylelint, Prettier
